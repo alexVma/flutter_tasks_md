@@ -38,6 +38,7 @@ dependencies:
   go_router: ^14.2.1
   shared_preferences: ^2.3.5
   flutter_riverpod: ^2.5.1
+  formz: ^0.8.0
 
 dev_dependencies:
   flutter_test:

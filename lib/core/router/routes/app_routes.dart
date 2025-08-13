@@ -1,5 +1,5 @@
-import 'package:flutter_tasks_md/config/router/route_paths.dart';
-import 'package:flutter_tasks_md/features/home/presentation/screens/screens.dart';
+import 'package:flutter_tasks_md/core/router/route_paths.dart';
+import 'package:flutter_tasks_md/features/features.dart';
 
 import 'package:go_router/go_router.dart';
 

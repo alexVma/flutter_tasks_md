@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_tasks_md/config/router/route_paths.dart';
+import 'package:flutter_tasks_md/core/router/route_paths.dart';
 import 'package:go_router/go_router.dart';
 import '../../data/repositories/welcome_repository_impl.dart';
 import '../../domain/usecases/get_welcome_message.dart';
