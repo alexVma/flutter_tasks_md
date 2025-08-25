@@ -5,6 +5,6 @@ class WelcomeRepositoryImpl implements WelcomeRepository {
   @override
   Future<WelcomeMessage> getWelcomeMessage() async {
     //await Future.delayed(const Duration(milliseconds: 000));
-    return WelcomeMessage('¡Bienvenido a FlutterTasks!');
+    return WelcomeMessage('¡Bienvenido a FlutterTasks! Creado por Jeremy');
   }
 }
